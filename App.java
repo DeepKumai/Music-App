@@ -20,7 +20,7 @@ class Playlist implements Serializable{
 	}
 }
 
-public class LAB7 {
+public class App {
 	static ArrayList<Playlist> arr=new ArrayList<Playlist>();
 //	public	static	void	deserialize(String dir) throws	IOException,	ClassNotFoundException {
 //		ObjectInputStream	in	=	null;	
